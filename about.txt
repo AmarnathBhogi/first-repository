@@ -1,0 +1,3 @@
+Name: Amarnath
+Course: BCA
+One thing about github it is used to store the git projects
